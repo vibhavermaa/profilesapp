@@ -27,3 +27,4 @@ amplify/outputs.ts
 amplify_outputs.json
 .amplify/
 *.amplifyrc.json
+.npm
